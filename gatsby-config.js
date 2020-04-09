@@ -35,14 +35,14 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `{__dirname}/static/assets`,
+        path: `${__dirname}/static/assets`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `content`,
-        path: `{__dirname}/content`,
+        path: `${__dirname}/content`,
       },
     },
     `gatsby-transformer-remark`,
