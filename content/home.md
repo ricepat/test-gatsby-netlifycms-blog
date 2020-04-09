@@ -8,5 +8,5 @@ intro: >-
 
 
   Anyways, pink flowers are super cute! They're super cool! They don't always smell good, but that's always the case, right? Ahaha~
-image: assets/iso-republic-macro-pretty-pink-flower-petals.jpg
+image: assets/iso-republic-beautiful-flower-up-close.jpg
 ---
