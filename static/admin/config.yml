@@ -2,8 +2,8 @@ backend:
   name: github
   repo: ricepat/test-gatsby-netlifycms-blog
 
-media_folder: static/assets
-public_folder: assets
+media_folder: "static/assets"
+public_folder: "/assets"
 
 collections:
   - label: "Pages"
